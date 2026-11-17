@@ -32,7 +32,7 @@ Every prompt produces a **single-file HTML project** — touch-friendly, sound e
 
 **This repo** — The static, forkable, zero-dependency version. 25+ templates, works offline, runs anywhere.
 
-**[madebydia.com/pixelfoundery](https://madebydia.com/pixelfoundery)** — The live version, built on [Anything](https://anything.com) with Claude Sonnet generating unique prompts in real-time. Same interface, infinite variety.
+**[madebydia.com/pixelfoundery](https://madebydia.com/pixelfoundery.com)** — The live version, built on [Anything](https://anything.com) with Claude Sonnet generating unique prompts in real-time. Same interface, infinite variety.
 
 ## How it works
 
