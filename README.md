@@ -7,7 +7,7 @@ Single HTML file. No frameworks. No dependencies. Fork it, open it, pick an age 
 ## Quick Start
 
 ```
-git clone https://github.com/madebydia/pixelfoundery.com.git
+git clone https://github.com/madebydia/pixelfoundery.git
 open index.html
 ```
 
@@ -32,7 +32,7 @@ Every prompt produces a **single-file HTML project** — touch-friendly, sound e
 
 **This repo** — The static, forkable, zero-dependency version. 25+ templates, works offline, runs anywhere.
 
-**[madebydia.com/pixelfoundery.com](https://madebydia.com/pixelfoundery.com)** — The live version, runs entirely offline with curated prompt templates - no AI calls needed.
+**[madebydia.com/pixelfoundery](https://madebydia.com/pixelfoundery)** — The live version, runs entirely offline with curated prompt templates - no AI calls needed.
 
 ## How it works
 
@@ -66,7 +66,7 @@ Parents want to build with their kids using AI but don't know what to ask for. "
 
 ## Links
 
-- **Live site:** [madebydia.com/pixelfoundery.com](https://madebydia.com/pixelfoundery.com)
+- **Live site:** [madebydia.com/pixelfoundery](https://madebydia.com/pixelfoundery)
 - **Newsletter:** [Raising Pixels](https://raisingpixels.dev)
 - **Kid's games:** [madladstudios.com](https://madladstudios.com)
 - **More project ideas:** [toddlerlabs.com](https://toddlerlabs.com)
