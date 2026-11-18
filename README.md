@@ -32,7 +32,7 @@ Every prompt produces a **single-file HTML project** — touch-friendly, sound e
 
 **This repo** — The static, forkable, zero-dependency version. 25+ templates, works offline, runs anywhere.
 
-**[madebydia.com/pixelfoundery.com](https://madebydia.com/pixelfoundery.com)** — The live version, built on [Anything](https://anything.com) with Claude Sonnet generating unique prompts in real-time. Same interface, infinite variety.
+**[madebydia.com/pixelfoundery.com](https://madebydia.com/pixelfoundery.com)** — The live version, runs entirely offline with curated prompt templates - no AI calls needed.
 
 ## How it works
 
@@ -66,7 +66,7 @@ Parents want to build with their kids using AI but don't know what to ask for. "
 
 ## Links
 
-- **Live site:** [pixelfoundery.com](https://pixelfoundery.com)
+- **Live site:** [madebydia.com/pixelfoundery.com](https://madebydia.com/pixelfoundery.com)
 - **Newsletter:** [Raising Pixels](https://raisingpixels.dev)
 - **Kid's games:** [madladstudios.com](https://madladstudios.com)
 - **More project ideas:** [toddlerlabs.com](https://toddlerlabs.com)
